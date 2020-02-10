@@ -48,4 +48,6 @@ I will also have a bar chart to show how the US incarceration rate compares to o
 
 # Method and medium
 
-I plan to use Shorthand for this project. I think a simple, clean, linear format fits this topic well. In addition to my data visualizations, I plan to use pictures of people that will evoke a sympathetic reaction and draw viewers in. 
+I plan to use Shorthand for this project. I think a simple, clean, linear format fits this topic well. In addition to my data visualizations, I plan to use pictures of people that will evoke a sympathetic reaction and draw viewers in. I need to do more research and look at previous research I've done to make the story cohesive and complete. 
+
+My next step will be sketching additional visualizations to experiment more. As I refine the story I want to tell, I think I'll come up with more creative ideas. Then, I'll get feedback on those images from people who don't know much about the topic. 
