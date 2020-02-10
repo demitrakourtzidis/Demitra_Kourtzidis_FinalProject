@@ -7,7 +7,7 @@ Introduction: The United States has the highest incarceration rate in the world.
 
 # How we got here
 We weren't always like this. In fact, we had a pretty normal incarceration rate until the 1980s. American culture became extremely punitive (punishment-oriented) at that time, and experts point to a number of different causes (television, the Civil Rights Movement, rising crime rates). This phenomenon became known as the "tough on crime" movement. The federal goverment started passing laws to criminalize more behaviors and lengthen prison sentences. Most states followed closely behind, creating harsh sentencing laws that exploded the prison population. (I'll talk more about specifics and the timeline here.) - And, mass incarceration isn't really related to crime.
-![Sketch 1](globe.jpg)
+![Sketch 1](globes.jpg)
 # Where we are now
 Even though the federal government was the originator of tough on crime policy, mass incarceration is a state problem (Viz 2). State policy is what drives incarceration, which explains the huge differences in state incarceration rates. Many states have tried to change their criminal justice policies in the last decade. Most of them have had only modest successes. Turns out, it's really hard to change criminal justice policy for a number of reasons. 
 ![Sketch 2](people.jpg)
