@@ -1,5 +1,7 @@
 # The U.S. has the highest incarceration rate in the world, and that's a problem for everyone.
 Mass incarceration makes you less safe.
+# Summary
+The U.S. is the most incarcerated country in the world, and that has a negative impact on all of us. There are a lot of myths surrounding criminal justice policy that prevent reform, but in dispelling these myths, reform is possible.
 # Outline
 Introduction: The United States has the highest incarceration rate in the world. Yes, that's including China and Russia. While the U.S. only accounts for 4% of the world population, our prisons and jails hold almost 25% of the world's incarcerated population (Viz 1). 
 
@@ -25,3 +27,25 @@ Let's do an exercise to help you think about this. Think about people you know a
 
 This one's easy. There's a reason you know his name. There's a reason Zac Efron plays him in a movie. There are very few people like Ted Bundy, and he is certainly not representative of all or even most incarcerated people. Plus, no criminal justice reform would ever result in a judge letting a serial killer off with a warning. Criminal justice reform has nothing to do with Ted Bundy.
 
+etc.
+
+# How mass incarceration makes your life worse
+
+# Calls to action
+Call your legislators.
+Vote for your local district attorney.
+Hire people with prior convictions.
+Vote for your local judges.
+# Data
+
+The bulk of my data are available here: https://www.prisonpolicy.org/data/
+
+PrisonPolicy.org has the biggest (publicly available) collection of organized incarceration data in the country. These data show breakdowns of different incarcerated populations by gender, race, ethnicity, state, type of offense, etc. over time. The over time aspect will be important to show the growth of incarceration during the tough on crime era. 
+
+The breakdown of incarcerated populations by type of offense is, in my opinion, the most salient piece. It will give me the opportunity to explain what different labels like "violent crime" actually mean. I want to take the power out of these labels because they are misleading. 
+
+I will also have a bar chart to show how the US incarceration rate compares to other countries and a chart to show how states compare to each other. The latter helps make the point that incarceration is really a state-level issue. 
+
+# Method and medium
+
+I plan to use Shorthand for this project. I think a simple, clean, linear format fits this topic well. In addition to my data visualizations, I plan to use pictures of people that will evoke a sympathetic reaction and draw viewers in. 
