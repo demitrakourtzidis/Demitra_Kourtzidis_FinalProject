@@ -98,13 +98,13 @@ Yeah. It brought things that I hadn't thought about into perspective. Especially
 Person 2. Female. 22 years old. CMU graduate student.
 
 1. What do you think is the purpose of this presentation?
-To bring awareness to the issue of prosucetion in the United States.
+To bring awareness to the issue of incarceration in the United States.
 
 2. Who do you think is the target audience for this presentation?
 Voters
 
 3. What, if anything, did you find confusing in this storyboard?
-nothing
+I think more terms need to be defined.
 
 4. What would you change?
 nothing
