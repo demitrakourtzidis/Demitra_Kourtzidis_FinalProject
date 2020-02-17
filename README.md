@@ -53,5 +53,5 @@ I plan to use Shorthand for this project. I think a simple, clean, linear format
 My next step will be sketching additional visualizations to experiment more. As I refine the story I want to tell, I think I'll come up with more creative ideas. Then, I'll get feedback on those images from people who don't know much about the topic. 
 
 # Storyboard
-![Storyboard1](Storyboard1.jpg)
-![Storyboard2](Storyboard2.jpg)
+![Storyboard1](Storyboard1.png)
+![Storyboard2](Storyboard2.png)
