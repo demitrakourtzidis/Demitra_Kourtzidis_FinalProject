@@ -98,11 +98,29 @@ Yeah. It brought things that I hadn't thought about into perspective. Especially
 Person 2. Female. 22 years old. CMU graduate student.
 
 1. What do you think is the purpose of this presentation?
+To bring awareness to the issue of prosucetion in the United States.
 
 2. Who do you think is the target audience for this presentation?
+Voters
 
 3. What, if anything, did you find confusing in this storyboard?
+nothing
 
 4. What would you change?
+nothing
 
 5. Did this presentation affect your perspective on the topic?
+I knew the issue of the topic, but the information presented showed the importance of it.
+
+Person 3. Female. 22 years old. CMU graduate student.
+
+1. What do you think is the purpose of this presentation?
+To discuss the problems that exist in the USA in the prison system and what we can do to change that.
+2. Who do you think is the target audience for this presentation?
+General population
+3. What, if anything, did you find confusing in this storyboard?
+The cartoon was slightly confusing.
+4. What would you change?
+I would edit the captions for the cartoon to make them clearer on what you are trying to convey about getting a job after getting criminal charges.
+5. Did this presentation affect your perspective on the topic?
+I think it raised my awareness on the topic. 
