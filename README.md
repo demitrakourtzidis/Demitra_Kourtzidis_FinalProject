@@ -124,3 +124,7 @@ The cartoon was slightly confusing.
 I would edit the captions for the cartoon to make them clearer on what you are trying to convey about getting a job after getting criminal charges.
 5. Did this presentation affect your perspective on the topic?
 I think it raised my awareness on the topic. 
+
+# Updated storyboard
+![Storyboard3](Storyboard3.png)
+![Storyboard4](Storyboard4.png)
