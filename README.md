@@ -55,3 +55,37 @@ My next step will be sketching additional visualizations to experiment more. As 
 # Storyboard
 ![Storyboard1](Storyboard1.png)
 ![Storyboard2](Storyboard2.png)
+
+# Getting Feedback
+
+The audience for my presentation is voting-eligible adults who may not know about mass incarceration. A secondary audience would be legislators who haven't spent much time in the policy area. Luckily, most of my friends are voting-eligible adults. Their level of education (Graduate school) is higher than I would like because I want this content to be accessible to everyone. Since they're so busy with school, I will limit my interviews to 5-10 minutes and have them type their answers directly into this repository. That also allows them to critique my work more honestly because they don't have to say anything directly to me. 
+
+Questions:
+1. What do you think is the purpose of this presentation?
+This is really open-ended. The purpose is to understand how the information comes across. I want to make sure I'm making my point effectively.
+
+2. Who do you think is the target audience for this presentation?
+I have a tendency to write for academics, which is a confusing style of communication. I'm asking this question to get feedback on the clarity of my thought process. 
+
+3. What, if anything, did you find confusing in this storyboard?
+This question has the same purpose as the previous one but is more open-ended. This way, I'll get feedback on my proposed visuals.
+
+4. What would you change?
+This question is an opportunity for my interviewees to say whatever they want about the project. I think this question will give them permission to show me their perspectives.
+
+5. Did this presentation affect your perspective on the topic?
+This question is the most important one, to me. The purpose of my presentation is to teach people and change their perspectives, so I want to do that effectively. 
+
+# Interviews
+
+Person 1. Female. 21 years old. CMU graduate student.
+
+1. What do you think is the purpose of this presentation?
+
+2. Who do you think is the target audience for this presentation?
+ 
+3. What, if anything, did you find confusing in this storyboard?
+
+4. What would you change?
+
+5. Did this presentation affect your perspective on the topic?
