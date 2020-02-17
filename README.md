@@ -60,6 +60,8 @@ My next step will be sketching additional visualizations to experiment more. As 
 
 The audience for my presentation is voting-eligible adults who may not know about mass incarceration. A secondary audience would be legislators who haven't spent much time in the policy area. Luckily, most of my friends are voting-eligible adults. Their level of education (Graduate school) is higher than I would like because I want this content to be accessible to everyone. Since they're so busy with school, I will limit my interviews to 5-10 minutes and have them type their answers directly into this repository. That also allows them to critique my work more honestly because they don't have to say anything directly to me. 
 
+In response to the feedback I got, I added a few visualizations to expand on the content I already had. I also reordered some slides to make the story flow better. From here, I need to develop drafts of my actual visualizations based on the data. I also need to put actual research into the designated spots. I have that information compiled, but I still need to organize it. After I do that, I'll probably ask my friends for feedback again when my presentation is more developed. 
+
 Questions:
 1. What do you think is the purpose of this presentation?
 This is really open-ended. The purpose is to understand how the information comes across. I want to make sure I'm making my point effectively.
