@@ -81,9 +81,26 @@ This question is the most important one, to me. The purpose of my presentation i
 Person 1. Female. 21 years old. CMU graduate student.
 
 1. What do you think is the purpose of this presentation?
+I feel like there's more than one purpose. Maybe just to highlight how high the incarceration rate is and how it's not necessarily someone's fault that they're incarcerated.
 
 2. Who do you think is the target audience for this presentation?
+ Literally anybody.
  
+3. What, if anything, did you find confusing in this storyboard?
+I didn't know what the crime rate was or what made it different from the incarceration rate.
+
+4. What would you change?
+I would start with the little comic because I think that's a really compelling hook. I also think the different sections should end on concluding notes, so they can transition better. Maybe make the part about mass incarceration tearing down communities the first in the "Why should you care?" section because it connects to the state policy discussion above. 
+
+5. Did this presentation affect your perspective on the topic?
+Yeah. It brought things that I hadn't thought about into perspective. Especially the comic. 
+
+Person 2. Female. 22 years old. CMU graduate student.
+
+1. What do you think is the purpose of this presentation?
+
+2. Who do you think is the target audience for this presentation?
+
 3. What, if anything, did you find confusing in this storyboard?
 
 4. What would you change?
