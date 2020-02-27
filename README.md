@@ -1,3 +1,5 @@
+# See the final product here: https://carnegiemellon.shorthandstories.com/incarceration/index.html
+
 # The U.S. has the highest incarceration rate in the world, and that's a problem for everyone.
 Mass incarceration makes you less safe.
 # Summary
@@ -131,6 +133,12 @@ I think it raised my awareness on the topic.
 ![Storyboard3](Storyboard3.png)
 ![Storyboard4](Storyboard4.png)
 
-# Moodboard
-I do not own any of these pictures, so I'll be deleting this immediately after grading. 
-![Moodboard](moodboard.png)
+# Target Audience
+
+My target audience is all eligible voters. This is obviously pretty broad, so I had trouble narrowing my topic at first (and throughout. Basically until the very end). I ended up thinking about my target audience as voting eligible people with zero knowledge on the topic of mass incarceration in the United States. This helped me focus my website. In its current iteration, my Shorthand gived a broad overview of the topic as an introduction and offers additional resources for people who want to learn more.
+
+To tailor my website to this audience, I defined incarceration rate because I didn't think that was a widely-known term. I also chose to use laymen's terms in place of jargon. For example, I used the term "punishment-oriented" instead of "punitive," which is what I would typically say. My roommates gave me feedback, and they had very little knowledge about the topic ahead of time. Their comments and recommendations were really helpful because they did have some points of confusion that I was able to fix during the revision process. 
+
+# Finals Thoughts
+
+At the beginning of this project, I had a very broad idea of what I wanted to do. Criminal justice policy is something I'm extremely passionate about, so my first instinct was to include everything I thought was important (which is everything). 
