@@ -3,7 +3,7 @@
 
 Or go back to my [portfolio!](https://demitrakourtzidis.github.io/portfolio/)
 
-# The U.S. has the highest incarceration rate in the world, and that's a problem for everyone.
+Main ideas: The U.S. has the highest incarceration rate in the world, and that's a problem for everyone.
 Mass incarceration makes you less safe.
 # Summary
 The U.S. is the most incarcerated country in the world, and that has a negative impact on all of us. There are a lot of myths surrounding criminal justice policy that prevent reform, but in dispelling these myths, reform is possible.
