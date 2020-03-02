@@ -1,4 +1,7 @@
-# See the final product here: https://carnegiemellon.shorthandstories.com/incarceration/index.html
+# See the final product here: 
+[Final Project - Mass Incarceration](https://demitrakourtzidis.github.io/Demitra_Kourtzidis_FinalProject/)
+
+Or go back to my [portfolio!](https://demitrakourtzidis.github.io/portfolio/)
 
 # The U.S. has the highest incarceration rate in the world, and that's a problem for everyone.
 Mass incarceration makes you less safe.
@@ -14,10 +17,13 @@ We weren't always like this. In fact, we had a pretty normal incarceration rate 
 Even though the federal government was the originator of tough on crime policy, mass incarceration is a state problem (Viz 2). State policy is what drives incarceration, which explains the huge differences in state incarceration rates. Many states have tried to change their criminal justice policies in the last decade. Most of them have had only modest successes. Turns out, it's really hard to change criminal justice policy for a number of reasons. 
 ![Sketch 2](people.jpg)
 # Stuff to keep in mind
+
 1. We believe a lot of myths about who "criminals" are
+
 If you've watched Law and Order, you've probably felt genuine anger and disgust at the show's villains. I'm sure those characters deserved your hatred because they're written that way on purpose. In real life, nobody is a "criminal." Many people break the law everyday; some get caught and most don't. The outcome pretty much depends on your zipcode. 
 
 Let's do an exercise to help you think about this. Think about people you know and love, including yourself. Has anyone you know broken a law without getting caught? Here are some examples to help you brainstorm:
+
       - Being drunk in public
       - Peeing outside (this one can get you a spot on the sex offender registry!)
       - Giving alcohol to a minor
@@ -29,8 +35,6 @@ Let's do an exercise to help you think about this. Think about people you know a
 
 This one's easy. There's a reason you know his name. There's a reason Zac Efron plays him in a movie. There are very few people like Ted Bundy, and he is certainly not representative of all or even most incarcerated people. Plus, no criminal justice reform would ever result in a judge letting a serial killer off with a warning. Criminal justice reform has nothing to do with Ted Bundy.
 
-etc.
-
 # How mass incarceration makes your life worse
 
 # Calls to action
@@ -38,6 +42,7 @@ Call your legislators.
 Vote for your local district attorney.
 Hire people with prior convictions.
 Vote for your local judges.
+
 # Data
 
 The bulk of my data are available here: https://www.prisonpolicy.org/data/
